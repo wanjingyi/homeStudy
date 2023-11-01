@@ -18,7 +18,9 @@ public class EbookController {
     private EbookService ebookService;
 
     @GetMapping("/list")
-    public List<Ebook> list() {
-        return ebookService.list();
+    public List<Ebook> list(String name) {
+//        return ebookService.list();
+        List<Ebook> list = ebookService.list(name);
+        return list;
     }
 }
