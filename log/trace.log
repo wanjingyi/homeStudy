@@ -308,3 +308,26 @@
 2023-11-01 12:55:25.825 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
 2023-11-01 12:55:25.825 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
 2023-11-01 12:55:25.825 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 13:04:33.474 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-11-01 13:04:33.479 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 13:04:33.479 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 13:04:33.481 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 13:04:33.482 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 13:04:33.534 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 13836 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 13:04:33.534 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 13:04:33.586 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 13:04:33.586 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 13:04:33.587 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 13:04:33.620 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 13:04:33.620 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 13:04:33.621 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 13:04:33.621 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 13:04:33.626 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 13:04:33.626 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 91 ms
+2023-11-01 13:04:33.708 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 13:04:33.712 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 13:04:33.714 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 13:04:33.716 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.196 seconds (JVM running for 6182.048)
+2023-11-01 13:04:33.716 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 13:04:33.717 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 13:04:33.717 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
