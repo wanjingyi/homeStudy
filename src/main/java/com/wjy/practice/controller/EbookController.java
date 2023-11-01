@@ -2,6 +2,10 @@ package com.wjy.practice.controller;
 
 
 import com.wjy.practice.domain.Ebook;
+import com.wjy.practice.req.EbookReq;
+import com.wjy.practice.resp.CommonResp;
+import com.wjy.practice.resp.EbookResp;
+import com.wjy.practice.resp.PageResp;
 import com.wjy.practice.service.EbookService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -18,9 +22,10 @@ public class EbookController {
     private EbookService ebookService;
 
     @GetMapping("/list")
-    public List<Ebook> list(String name) {
-//        return ebookService.list();
-        List<Ebook> list = ebookService.list(name);
-        return list;
+    public CommonResp list(EbookReq req) {
+        CommonResp<PageResp<EbookResp>> resp = new CommonResp<>();
+        PageResp<EbookResp> list = ebookService.list(req);
+        resp.setContent(list);
+        return resp;
     }
 }
