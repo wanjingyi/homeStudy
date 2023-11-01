@@ -1,0 +1,310 @@
+2023-11-01 10:30:35.858 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 27112 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:30:35.860 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:30:36.309 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:30:36.314 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:30:36.315 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:30:36.315 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:30:36.364 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:30:36.364 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 481 ms
+2023-11-01 10:30:36.632 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:30:36.643 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:30:36.648 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.015 seconds (JVM running for 1.318)
+2023-11-01 10:30:36.650 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:30:36.650 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:33:26.295 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 16056 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:33:26.297 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:33:26.793 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:33:26.797 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:33:26.798 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:33:26.798 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:33:26.844 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:33:26.844 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 520 ms
+2023-11-01 10:33:27.125 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:33:27.138 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:33:27.143 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.114 seconds (JVM running for 1.446)
+2023-11-01 10:33:27.144 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:33:27.145 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:36:24.040 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 23048 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:36:24.041 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:36:24.515 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:36:24.519 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:36:24.521 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:36:24.521 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:36:24.578 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:36:24.579 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 514 ms
+2023-11-01 10:36:24.858 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:36:24.868 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:36:24.872 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.069 seconds (JVM running for 1.379)
+2023-11-01 10:36:24.873 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:36:24.874 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:40:58.378 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 10:40:58.388 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 14368 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:40:58.389 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:40:58.414 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 10:40:58.414 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 10:40:58.741 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 10:40:58.743 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 10:40:58.753 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 2 ms. Found 0 Redis repository interfaces.
+2023-11-01 10:40:59.093 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:40:59.098 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:40:59.099 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:40:59.099 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:40:59.135 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:40:59.135 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 721 ms
+2023-11-01 10:40:59.680 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 10:40:59.689 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:40:59.699 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:40:59.705 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.55 seconds (JVM running for 1.907)
+2023-11-01 10:40:59.707 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:40:59.707 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:41:18.360 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 7 class path changes (7 additions, 0 deletions, 0 modifications)
+2023-11-01 10:41:18.363 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:18.364 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 10:41:18.366 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:18.367 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:18.446 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 14368 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:41:18.446 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:41:18.510 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 10:41:18.510 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 10:41:18.511 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 10:41:18.559 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:41:18.560 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:18.560 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:41:18.560 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:41:18.568 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:41:18.568 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 121 ms
+2023-11-01 10:41:18.665 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 10:41:18.669 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:18.671 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:41:18.672 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.247 seconds (JVM running for 20.874)
+2023-11-01 10:41:18.673 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 10:41:18.674 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:41:18.674 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:41:58.607 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 10:41:58.618 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 7792 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:41:58.618 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:41:58.648 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 10:41:58.648 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 10:41:58.956 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 10:41:58.957 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 10:41:58.966 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 2 ms. Found 0 Redis repository interfaces.
+2023-11-01 10:41:59.306 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:41:59.311 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:59.312 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:41:59.312 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:41:59.349 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:41:59.349 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 700 ms
+2023-11-01 10:41:59.871 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 10:41:59.879 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:41:59.889 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:41:59.894 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.517 seconds (JVM running for 1.884)
+2023-11-01 10:41:59.896 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:41:59.896 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 10:50:04.187 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 10:50:04.202 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 28380 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 10:50:04.203 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 10:50:04.236 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 10:50:04.236 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 10:50:04.570 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 10:50:04.571 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 10:50:04.582 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 2 ms. Found 0 Redis repository interfaces.
+2023-11-01 10:50:04.915 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 10:50:04.919 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:50:04.920 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 10:50:04.920 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 10:50:04.956 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 10:50:04.956 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 720 ms
+2023-11-01 10:50:05.472 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 10:50:05.480 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 10:50:05.495 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 10:50:05.501 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.538 seconds (JVM running for 1.944)
+2023-11-01 10:50:05.503 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 10:50:05.503 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:04:41.977 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2023-11-01 11:04:41.983 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:04:41.983 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 11:04:41.986 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:04:41.987 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:04:42.034 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 28380 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 11:04:42.034 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 11:04:42.099 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 11:04:42.099 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 11:04:42.100 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 11:04:42.143 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 11:04:42.143 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:04:42.143 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 11:04:42.143 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 11:04:42.150 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 11:04:42.150 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 114 ms
+2023-11-01 11:04:42.253 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 11:04:42.260 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:04:42.262 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 11:04:42.263 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.247 seconds (JVM running for 878.707)
+2023-11-01 11:04:42.265 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 11:04:42.265 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 11:04:42.265 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:06:12.687 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 11:06:12.701 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 18840 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 11:06:12.702 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 11:06:12.733 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 11:06:12.733 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 11:06:13.031 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 11:06:13.032 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 11:06:13.041 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 2 ms. Found 0 Redis repository interfaces.
+2023-11-01 11:06:13.366 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 11:06:13.371 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:06:13.371 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 11:06:13.372 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 11:06:13.403 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 11:06:13.403 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 670 ms
+2023-11-01 11:06:13.914 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 11:06:13.923 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:06:13.937 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 11:06:13.943 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.463 seconds (JVM running for 1.807)
+2023-11-01 11:06:13.944 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 11:06:13.945 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:06:15.098 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-01 11:06:15.098 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-11-01 11:06:15.099 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-11-01 11:06:15.133 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2023-11-01 11:06:15.316 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2023-11-01 11:21:12.235 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-11-01 11:21:12.240 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:12.240 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 11:21:12.241 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-11-01 11:21:12.242 WARN  org.apache.catalina.loader.WebappClassLoaderBase  :173  [32m                  [0;39m The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+2023-11-01 11:21:12.243 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:12.244 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:12.251 INFO  com.zaxxer.hikari.HikariDataSource                :350  [32m                  [0;39m HikariPool-1 - Shutdown initiated...
+2023-11-01 11:21:12.255 INFO  com.zaxxer.hikari.HikariDataSource                :352  [32m                  [0;39m HikariPool-1 - Shutdown completed.
+2023-11-01 11:21:12.297 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 18840 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 11:21:12.297 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 11:21:12.366 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 11:21:12.366 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 11:21:12.367 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 11:21:12.413 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 11:21:12.413 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:12.413 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 11:21:12.413 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 11:21:12.421 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 11:21:12.421 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 122 ms
+2023-11-01 11:21:12.524 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 11:21:12.528 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:12.530 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 11:21:12.532 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.252 seconds (JVM running for 900.396)
+2023-11-01 11:21:12.533 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 11:21:12.533 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 11:21:12.533 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:21:14.504 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 11:21:14.513 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 21876 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 11:21:14.513 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 11:21:14.544 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 11:21:14.545 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 11:21:14.859 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 11:21:14.860 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 11:21:14.871 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-11-01 11:21:15.209 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 11:21:15.214 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:15.215 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 11:21:15.215 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 11:21:15.246 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 11:21:15.247 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 702 ms
+2023-11-01 11:21:15.775 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 11:21:15.785 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:15.796 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 11:21:15.802 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.574 seconds (JVM running for 1.93)
+2023-11-01 11:21:15.803 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 11:21:15.804 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:21:32.223 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 6.2.5.Final
+2023-11-01 11:21:32.235 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 13836 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 11:21:32.235 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 11:21:32.262 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-01 11:21:32.262 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-01 11:21:32.554 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 11:21:32.555 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 11:21:32.564 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 2 ms. Found 0 Redis repository interfaces.
+2023-11-01 11:21:32.880 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 11:21:32.885 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:32.885 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 11:21:32.886 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 11:21:32.917 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 11:21:32.917 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 655 ms
+2023-11-01 11:21:33.411 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 11:21:33.421 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 11:21:33.432 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 11:21:33.438 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 1.429 seconds (JVM running for 1.772)
+2023-11-01 11:21:33.440 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 11:21:33.440 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 11:21:34.785 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-01 11:21:34.786 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-11-01 11:21:34.787 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-11-01 11:21:34.829 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2023-11-01 11:21:34.993 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2023-11-01 12:55:02.528 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-11-01 12:55:02.533 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:02.533 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 12:55:02.533 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-11-01 12:55:02.534 WARN  org.apache.catalina.loader.WebappClassLoaderBase  :173  [32m                  [0;39m The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+2023-11-01 12:55:02.535 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:02.536 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:02.544 INFO  com.zaxxer.hikari.HikariDataSource                :350  [32m                  [0;39m HikariPool-1 - Shutdown initiated...
+2023-11-01 12:55:02.547 INFO  com.zaxxer.hikari.HikariDataSource                :352  [32m                  [0;39m HikariPool-1 - Shutdown completed.
+2023-11-01 12:55:02.602 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 13836 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 12:55:02.602 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 12:55:02.666 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 12:55:02.666 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 12:55:02.667 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 12:55:02.717 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 12:55:02.717 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:02.717 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 12:55:02.717 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 12:55:02.724 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 12:55:02.724 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 121 ms
+2023-11-01 12:55:02.838 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 12:55:02.842 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:02.843 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 12:55:02.845 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.264 seconds (JVM running for 5611.178)
+2023-11-01 12:55:02.846 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 12:55:02.846 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 12:55:02.846 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-11-01 12:55:25.573 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (1 addition, 0 deletions, 1 modification)
+2023-11-01 12:55:25.577 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:25.578 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-11-01 12:55:25.579 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:25.580 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:25.634 INFO  com.wjy.practice.config.PracticeApplication       :55   [32m                  [0;39m Starting PracticeApplication using Java 21.0.1 on wangjingyi with PID 13836 (D:\my_github_practice\practice\target\classes started by wangxi in D:\my_github_practice\practice)
+2023-11-01 12:55:25.634 INFO  com.wjy.practice.config.PracticeApplication       :632  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-11-01 12:55:25.694 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :262  [32m                  [0;39m Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-01 12:55:25.694 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :132  [32m                  [0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-01 12:55:25.695 INFO  o.s.d.r.config.RepositoryConfigurationDelegate    :201  [32m                  [0;39m Finished Spring Data repository scanning in 0 ms. Found 0 Redis repository interfaces.
+2023-11-01 12:55:25.729 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-11-01 12:55:25.730 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:25.730 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-11-01 12:55:25.730 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.82]
+2023-11-01 12:55:25.736 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-11-01 12:55:25.736 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 101 ms
+2023-11-01 12:55:25.818 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-11-01 12:55:25.821 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-11-01 12:55:25.823 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-11-01 12:55:25.824 INFO  com.wjy.practice.config.PracticeApplication       :61   [32m                  [0;39m Started PracticeApplication in 0.206 seconds (JVM running for 5634.157)
+2023-11-01 12:55:25.825 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-11-01 12:55:25.825 INFO  com.wjy.practice.config.PracticeApplication       :21   [32m                  [0;39m 小狗水上漂启动成功！！
+2023-11-01 12:55:25.825 INFO  com.wjy.practice.config.PracticeApplication       :22   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
